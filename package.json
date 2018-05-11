@@ -1,7 +1,12 @@
 {
   "name": "craftsman",
+  "description": "Command line make code like laravel artisan run with node.js.",
   "version": "0.0.0",
-  "author": "supakit @MunNaaS",
+  "author": {
+    "name": "Supakit Tanyung",
+    "email": "supakit.tanyung@gmail.com",
+    "url": "https://github.com/MunNaaS"
+  },
   "bin": {
     "craftsman": "./bin/run"
   },
@@ -38,7 +43,7 @@
   ],
   "homepage": "https://github.com/MunNaaS/craftsman",
   "keywords": [
-    "oclif"
+    "oclif", "artisan", "node", "craftsman", "typescript", "make project"
   ],
   "license": "MIT",
   "main": "index.js",
