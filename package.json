@@ -1,5 +1,5 @@
 {
-  "name": "craftsman",
+  "name": "@munnaas/craftsman",
   "description": "Command line make code like laravel artisan run with node.js.",
   "version": "0.0.0",
   "author": {
